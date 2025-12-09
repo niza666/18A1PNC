@@ -1,0 +1,11 @@
+
+<company>
+    <staff id="1">
+        <name>GeeksForGeeks Company</name>
+        <salary>8.5 LPA</salary>
+    </staff>
+    <staff id="2">
+        <name>Akbhar Khan</name>
+        <salary>6.5 LPA</salary>
+    </staff>
+</company>
